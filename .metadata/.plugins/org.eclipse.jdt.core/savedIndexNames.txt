@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\MyJava\daertest\.metadata\.plugins\org.eclipse.jdt.core
+4236714085.index
